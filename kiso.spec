@@ -1,4 +1,5 @@
 Summary:	KIso - which makes it easy to extract, create and manipulate ISO-Images
+Summary(pl):	KIso - program u³atwiaj±cy rozk³adanie, tworzenie i obróbkê obrazów ISO
 Name:		kiso
 Version:	0.8.3
 Release:	0.1
@@ -27,6 +28,22 @@ make it as easy as possible to:
 - Mount ISO/NRG images as virtual drive.
 - Extract the content of an ISO/NRG image.
 - Create bootable images.
+
+%description -l pl
+KIso to graficzny interfejs u¿ytkownika dla KDE, którego celem jest
+uczynienie tak ³atwym jak to tylko mo¿liwe:
+- otwierania obrazów ISO i NRG
+- tworzenia obrazów ISO z CD
+- tworzenia w³asnych obrazów ISO
+- konwersji obrazów NRG do ISO
+- konwersji obrazów BIN/CUE do ISO
+- konwersji obrazów MDF do ISO
+- konwersji obrazów CDI do ISO
+- konwersji obrazów CCD/IMG do ISO
+- konwersji obrazów C2D do ISO
+- montowania obrazów ISO/NRG jako dysków wirtualnych
+- wyci±gania zawarto¶ci z obrazów ISO/NRG
+- tworzenia bootowalnych obrazów.
 
 %prep
 %setup -q

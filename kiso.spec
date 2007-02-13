@@ -1,5 +1,5 @@
 Summary:	KIso - which makes it easy to extract, create and manipulate ISO-Images
-Summary(pl.UTF-8):   KIso - program ułatwiający rozkładanie, tworzenie i obróbkę obrazów ISO
+Summary(pl.UTF-8):	KIso - program ułatwiający rozkładanie, tworzenie i obróbkę obrazów ISO
 Name:		kiso
 Version:	0.8.3
 Release:	0.1
